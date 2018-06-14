@@ -31,7 +31,7 @@
     then (next month)
     (avg1 + i+1(month)) / i + 1 = avg1
 
-    d)
+    d) gInc: 
 
 
 '''
